@@ -1,4 +1,4 @@
-# GR-2 Student Performance Prediction System 🎓📊
+ Student Performance Prediction System 🎓📊
 
 A Machine Learning project developed for the **BCA Machine Learning Curriculum**. This system predicts a student's academic performance tier (**Good**, **Average**, or **Poor**) based on key academic factors using supervised classification models.
 
